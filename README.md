@@ -33,6 +33,13 @@ A passionate **Backend Developer** and **AI Enthusiast** with experience in buil
 - Personalized diet recommendations based on user data
 - [View Project](https://github.com/Dana-Hamshuo/Diet-Recommendation-System)
 
+### 4.  Fix-Up
+**On-Demand Repair Services Platform**
+- Node.js, Express, MongoDB, Geospatial Queries
+- Features: Location-based matching, JWT auth, real-time chat integration
+- Role-based system for Users & Technicians
+- [View Project](https://github.com/Dana-Hamshuo/Fix-Up)
+
 ##  Tech Stack
 
 **Backend:**
