@@ -27,18 +27,20 @@ A passionate **Backend Developer** and **AI Enthusiast** with experience in buil
 - Recognizes emotions from audio files using neural networks
 - [View Project](https://github.com/Dana-Hamshuo/emotion-recognition)
 
-### 3.  Diet Recommendation System
-**AI-powered nutrition planning**
-- Python, Machine Learning
-- Personalized diet recommendations based on user data
-- [View Project](https://github.com/Dana-Hamshuo/Diet-Recommendation-System)
-
-### 4.  Fix-Up
+### 3.  Fix-Up
 **On-Demand Repair Services Platform**
 - Node.js, Express, MongoDB, Google OAuth, Geospatial Queries
 - Features: Dual auth (JWT + OAuth), email verification, location-based matching
 - Secure communication channel between users & technicians
 - [View Project](https://github.com/Dana-Hamshuo/Fix-Up)
+
+
+### 4.  Diet Recommendation System
+**AI-powered nutrition planning**
+- Python, Machine Learning
+- Personalized diet recommendations based on user data
+- [View Project](https://github.com/Dana-Hamshuo/Diet-Recommendation-System)
+
 
 ##  Tech Stack
 
