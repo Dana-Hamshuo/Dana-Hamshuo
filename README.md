@@ -41,7 +41,7 @@ A passionate **Backend Developer** and **AI Enthusiast** with experience in buil
 **Generative AI Pipeline using Stable Diffusion**
 - Python, PyTorch, Hugging Face Diffusers, OpenCV, BERT
 - Features: Advanced text cleaning, BERT token preprocessing, and fine-tuning Stable Diffusion models to generate fashion images from textual prompts
-- [View Project](https://github.com/Dana-Hamshuo/Text-to-Image-Fashion-StableDiffusion)
+- [View Project](https://github.com/Dana-Hamshuo/Fashion-Forge)
 
 ### 5.  Diet Recommendation System
 **AI-powered nutrition planning**
