@@ -8,6 +8,8 @@ A passionate **Backend Developer** and **AI Enthusiast** with experience in buil
 
 -  Build robust backend systems with **Node.js** and **Express**
 -  Develop machine learning models using **TensorFlow** and **Python**
+-  Design and train Deep Neural Networks (NN) and Deep Learning models using TensorFlow and PyTorch
+-  Implement Natural Language Processing (NLP) solutions including text preprocessing and tokenization
 -  Create RESTful APIs with **MongoDB** and **Mongoose**
 -  Implement secure authentication with **JWT**
 -  Work with data analysis and visualization
@@ -35,7 +37,13 @@ A passionate **Backend Developer** and **AI Enthusiast** with experience in buil
 - [View Project](https://github.com/Dana-Hamshuo/Fix-Up)
 
 
-### 4.  Diet Recommendation System
+### 4. Text-to-Image Generation in Fashion
+**Generative AI Pipeline using Stable Diffusion**
+- Python, PyTorch, Hugging Face Diffusers, OpenCV, BERT
+- Features: Advanced text cleaning, BERT token preprocessing, and fine-tuning Stable Diffusion models to generate fashion images from textual prompts
+- [View Project](https://github.com/Dana-Hamshuo/Text-to-Image-Fashion-StableDiffusion)
+
+### 5.  Diet Recommendation System
 **AI-powered nutrition planning**
 - Python, Machine Learning
 - Personalized diet recommendations based on user data
@@ -53,15 +61,19 @@ A passionate **Backend Developer** and **AI Enthusiast** with experience in buil
 
 **AI/ML:**
 - Python
+- Stable Diffusion, PyTorch
 - TensorFlow, Keras
 - Scikit-learn
 - Librosa, NumPy, Pandas
 
 **Tools:**
 - Git, GitHub
+- Hugging Face, Kaggle
+- Google Colab
 - Postman
 - Render (Deployment)
 - VS Code
+  
 
 ##  GitHub Stats
 
